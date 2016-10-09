@@ -1,6 +1,6 @@
 # GOG Extract
 
-Script for extracting the data from GOG Linux installers.
+Script for unpacking GOG Linux installers.
 
 Explanation of how it works is in my [blog post].
 
